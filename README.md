@@ -29,6 +29,10 @@ Generated executable jar will be placed in the *target* folder. You can then exe
 java -jar ./target/cs-check-<version>-jar-with-dependencies.jar
 ```
 
+A window looking more or less like below picture should pop up:
+
+![CSCheck Screenshot](./screenshot-cscheck.png)
+
 ## Authors
 
 * [**Jeremie Rodriguez**](https://github.com/jeremiergz) <[contact@jeremierodriguez.com](mailto:contact@jeremierodriguez.com)> - Main developer
