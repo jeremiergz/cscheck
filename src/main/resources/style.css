@@ -1,0 +1,22 @@
+@font-face {
+    src: url("fonts/Montserrat-Bold.ttf");
+}
+
+.bigtitle, .smalltitle {
+    -fx-font-family: Montserrat;
+    -fx-fill: #006A9A;
+    -fx-font-weight: bold;
+    -fx-text-aligne: center;
+}
+
+.bigtitle {
+    -fx-font-size: 45;
+}
+
+.smalltitle {
+    -fx-font-size: 30;
+}
+
+.bold {
+    -fx-font-weight: bold;
+}
